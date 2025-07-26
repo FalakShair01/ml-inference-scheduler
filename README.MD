@@ -1,4 +1,3 @@
-Here’s a **refined and concise version** of your `README.md` with emphasis on clarity, professionalism, and your points about this being a **prototype** and **latency is simulated** via worker scripts:
 
 ---
 
@@ -7,30 +6,28 @@ Here’s a **refined and concise version** of your `README.md` with emphasis on 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## 🚀 Overview
+## 🌟 Project Overview
 
-This project is a **prototype** for a distributed ML inference scheduler designed to route requests intelligently across **heterogeneous resources** (simulated GPU and CPU workers). It demonstrates how to optimize inference performance using real-time load tracking and greedy-first scheduling.
+This project presents a distributed, fine-grained resource scheduler designed to optimize the serving of Machine Learning inference requests on heterogeneous hardware environments (e.g., a mix of GPU-like and CPU-like compute resources). In real-world ML deployments, efficiently utilizing diverse hardware to minimize latency and maximize throughput under dynamic loads is a significant challenge.
 
-The worker services **simulate latency** for GPU-like and CPU-like hardware to mimic real-world behavior — making this ideal for testing smart scheduling logic in constrained environments.
+This system addresses these challenges by intelligently routing incoming inference requests to the most suitable and least-loaded worker in real-time. It showcases a robust architecture leveraging modern microservices patterns, centralized state management, and comprehensive observability.
 
-## 🔍 Problem Statement
+## 💡 Problem Statement
 
-ML inference in production often suffers from:
+Inference serving for large-scale ML models often faces bottlenecks due to:
+* **Heterogeneous Hardware:** Balancing workloads across machines with varying processing capabilities (e.g., high-performance GPUs vs. general-purpose CPUs).
+* **Dynamic Workloads:** Handling unpredictable spikes and troughs in request volume.
+* **Latency & Throughput Requirements:** Ensuring low response times and high request processing rates.
+* **Resource Underutilization:** Static load balancing often leaves expensive, high-capacity resources idle while queues build up elsewhere.
 
-* Underutilized fast resources (e.g., GPUs)
-* High tail latency due to poor request distribution
-* Static load balancing that doesn’t adapt to real-time load
+## ✨ Key Features & Solution Highlights
 
-This scheduler addresses these issues by dynamically selecting the **least-loaded, fastest available worker**.
-
-## ✨ Key Features
-
-* **Greedy-first scheduling**: Prioritizes GPU-like workers until capacity is reached, then routes to CPU-like ones.
-* **Simulated latency**: Workers emulate GPU (low latency) and CPU (higher latency) response times.
-* **Real-time load awareness** via Redis.
-* **Prometheus + Grafana** for metrics and dashboards.
-* **FastAPI microservices** for modular design.
-* **Docker Compose** for easy setup.
+* **Intelligent Scheduling:** Implements a greedy-first algorithm prioritizing faster (simulated GPU) workers and dynamically routing requests based on real-time load.
+* **Distributed Architecture:** Built as a set of FastAPI microservices (Scheduler, Workers) for scalability and modularity.
+* **Real-time State Management:** Leverages Redis for centralizing worker registration, load tracking, and heartbeat monitoring, ensuring up-to-date cluster insights.
+* **Heterogeneous Worker Simulation:** Workers are configured to simulate different inference latencies, mimicking real-world hardware diversity.
+* **Comprehensive Observability:** Integrated with Prometheus for metric collection and Grafana for real-time visualization of key performance indicators like latency, throughput, and worker utilization.
+* **Containerized Deployment:** All services are containerized with Docker and orchestrated using Docker Compose for easy setup and reproducibility.
 
 ## 🧱 Architecture Overview
 
@@ -87,11 +84,13 @@ For detailed graphs and analysis, check out the blog post:
 
 ## 🧪 Future Improvements
 
-* Reinforcement Learning-based scheduling
-* Priority-aware request handling
-* Dynamic worker scaling (e.g., with Kubernetes)
-* Resilience and fault tolerance
-* Cost-aware scheduling logic
+This project serves as a robust foundation. Potential areas for future exploration include:
+
+- More Sophisticated Scheduling Algorithms: Implementing Reinforcement Learning (RL) or other advanced heuristics for dynamic, adaptive scheduling policies.
+- Dynamic Worker Scaling: Integrating with cloud providers (e.g., AWS ECS/EKS, Kubernetes) for automated horizontal scaling of worker instances based on load.
+- Request Prioritization: Adding support for high-priority requests to bypass queues or be routed to dedicated resources.
+- Fault Tolerance & Resilience: Enhancing error handling and recovery mechanisms for worker failures.
+- Cost Optimization: Incorporating cost models into scheduling decisions to minimize operational expenses.
 
 ## 👤 Author
 
