@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  scheduler:
+    build:
+      context: .
+      dockerfile: Dockerfile.scheduler
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_HOST=redis
+    depends_on:
+      - redis
+
+  gpu_worker_1:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    environment:
+      - WORKER_TYPE=GPU
+      - SIM_LATENCY=0.05 # 50ms
+      - REDIS_HOST=redis 
+      - SERVER=gpu_worker_1
+    ports:
+      - "8002:8001"
+    depends_on:
+      - redis
+
+  cpu_worker_1:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    environment:
+      - WORKER_TYPE=CPU
+      - SIM_LATENCY=0.20 # 200ms
+      - REDIS_HOST=redis 
+      - SERVER=cpu_worker_1
+    ports:
+      - "8003:8001" 
+    depends_on:
+      - redis
+    
+  redis:
+    image: "redis:7-alpine"
+    ports:
+      - "6379:6379"
+
+  prometheus:
+    image: prom/prometheus:v2.47.0 
+    volumes:
+      - ./prometheus/:/etc/prometheus/ 
+    command: --config.file=/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    depends_on:
+      - scheduler
+      - gpu_worker_1
+      - cpu_worker_1 # Ensure all services are up before Prometheus starts scraping
+
+  grafana:
+    image: grafana/grafana:10.1.5 # Use a stable version
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data/grafana-storage:/var/lib/grafana # Persistent storage for Grafana data
+    depends_on:
+      - prometheus

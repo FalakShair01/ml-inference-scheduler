@@ -1,0 +1,15 @@
+global:
+  scrape_interval: 1s # How frequently to scrape targets
+
+scrape_configs:
+  - job_name: 'scheduler'
+    static_configs:
+      - targets: ['scheduler:9001'] # Docker service name and port where metrics are exposed
+
+  - job_name: 'gpu_workers'
+    static_configs:
+      - targets: ['gpu_worker_1:9000']
+
+  - job_name: 'cpu_workers'
+    static_configs:
+      - targets: ['cpu_worker_1:9000']

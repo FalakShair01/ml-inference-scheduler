@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "1b179224",
+    "latency_ms": 158.05482864379883,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "762d3648",
+    "latency_ms": 224.06983375549316,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7a76afe6",
+    "latency_ms": 154.49237823486328,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5f18bd35",
+    "latency_ms": 365.009069442749,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4d85fb11",
+    "latency_ms": 489.60280418395996,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6bcae14f",
+    "latency_ms": 327.2817134857178,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e39ae66e",
+    "latency_ms": 265.43641090393066,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dc328435",
+    "latency_ms": -1,
+    "worker": "N/A",
+    "status": "http_error"
+  },
+  {
+    "id": "124ef6b5",
+    "latency_ms": 341.2444591522217,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4f21e50b",
+    "latency_ms": 155.30085563659668,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "54f197d4",
+    "latency_ms": 317.429780960083,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8c89b4dc",
+    "latency_ms": 157.00221061706543,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0fef5b87",
+    "latency_ms": 156.55875205993652,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "75efa2c4",
+    "latency_ms": 252.10022926330566,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "562795ec",
+    "latency_ms": 328.33290100097656,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fe548dd5",
+    "latency_ms": 404.7882556915283,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5a93433f",
+    "latency_ms": -1,
+    "worker": "N/A",
+    "status": "http_error"
+  },
+  {
+    "id": "b635217e",
+    "latency_ms": 155.74049949645996,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8003df80",
+    "latency_ms": 318.5422420501709,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9603632e",
+    "latency_ms": 154.03223037719727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "50c9d1c2",
+    "latency_ms": 180.17125129699707,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "650d169f",
+    "latency_ms": 157.86218643188477,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "92d0b572",
+    "latency_ms": 152.90188789367676,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2840bc32",
+    "latency_ms": 164.08848762512207,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c74c7911",
+    "latency_ms": 312.2866153717041,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "94c126f2",
+    "latency_ms": 323.88997077941895,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a48c1005",
+    "latency_ms": 157.83429145812988,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "14f699b1",
+    "latency_ms": 224.55191612243652,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d0af627d",
+    "latency_ms": 152.47631072998047,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b8caecb7",
+    "latency_ms": 227.7061939239502,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f64e4f0f",
+    "latency_ms": 151.8535614013672,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3f4bc098",
+    "latency_ms": 154.30235862731934,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dbb066fd",
+    "latency_ms": 151.01099014282227,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1ab4a3fb",
+    "latency_ms": 152.024507522583,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d9e68a9a",
+    "latency_ms": 150.5751609802246,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "81231e4f",
+    "latency_ms": 314.6672248840332,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8571574a",
+    "latency_ms": 231.6727638244629,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4c60494b",
+    "latency_ms": 154.0980339050293,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f25339e4",
+    "latency_ms": 153.6273956298828,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "09ddb017",
+    "latency_ms": 153.3355712890625,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1419259e",
+    "latency_ms": 148.27513694763184,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "215b4c98",
+    "latency_ms": 147.63808250427246,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b638d5f8",
+    "latency_ms": 158.98728370666504,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a035ba95",
+    "latency_ms": 223.44613075256348,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b2ed4b0b",
+    "latency_ms": 320.8634853363037,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "39739bdb",
+    "latency_ms": 154.36601638793945,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fb149a8a",
+    "latency_ms": 476.93824768066406,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b157d60b",
+    "latency_ms": 153.9313793182373,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f028af0e",
+    "latency_ms": 159.00945663452148,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b323c11b",
+    "latency_ms": 153.42044830322266,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "221873aa",
+    "latency_ms": 153.0463695526123,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b73e52dc",
+    "latency_ms": 311.7258548736572,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3d402cad",
+    "latency_ms": 479.92944717407227,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fd51917f",
+    "latency_ms": 153.85127067565918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "68001105",
+    "latency_ms": 153.458833694458,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8b32b540",
+    "latency_ms": 152.6792049407959,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "196bbfdc",
+    "latency_ms": 155.5473804473877,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "538e5180",
+    "latency_ms": 316.38455390930176,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "95f85b9e",
+    "latency_ms": 155.56049346923828,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cd29d372",
+    "latency_ms": 152.38380432128906,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b8ab9fe4",
+    "latency_ms": 155.02667427062988,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "baab994e",
+    "latency_ms": 224.05147552490234,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fea62c07",
+    "latency_ms": 232.1932315826416,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d63ab977",
+    "latency_ms": 153.2726287841797,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "efc24d6f",
+    "latency_ms": 228.08241844177246,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "066ce5a9",
+    "latency_ms": 153.52201461791992,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "98393ca8",
+    "latency_ms": 151.60131454467773,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9ed25556",
+    "latency_ms": 151.885986328125,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f3e206f4",
+    "latency_ms": 157.3200225830078,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fff7337e",
+    "latency_ms": 155.2731990814209,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e86406b6",
+    "latency_ms": 155.8518409729004,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "757c4694",
+    "latency_ms": 151.87573432922363,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "43093dbc",
+    "latency_ms": 153.77140045166016,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0ae9c5a5",
+    "latency_ms": 314.1210079193115,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "43bd5a11",
+    "latency_ms": 151.444673538208,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "70408b8c",
+    "latency_ms": 230.35240173339844,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "29c4618b",
+    "latency_ms": 152.49371528625488,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "97a37fb8",
+    "latency_ms": 155.05552291870117,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "376698ad",
+    "latency_ms": 229.3386459350586,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9a1f8d13",
+    "latency_ms": 152.87256240844727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d47d6ad2",
+    "latency_ms": 154.42752838134766,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "43bdb4e0",
+    "latency_ms": 224.34520721435547,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dfc7d2e2",
+    "latency_ms": 156.0194492340088,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d262cf66",
+    "latency_ms": 153.90324592590332,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "817bee0a",
+    "latency_ms": 157.47380256652832,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "659c6042",
+    "latency_ms": 151.24249458312988,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9638a4e7",
+    "latency_ms": 147.9477882385254,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7dab8b3f",
+    "latency_ms": 152.38595008850098,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3e39ceb7",
+    "latency_ms": 154.69098091125488,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "85b48ad1",
+    "latency_ms": 318.71557235717773,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1d5c7c6c",
+    "latency_ms": 152.62079238891602,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d46a1caa",
+    "latency_ms": 312.0274543762207,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2ef3f6e0",
+    "latency_ms": 151.6718864440918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4f459f40",
+    "latency_ms": 148.9415168762207,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8405dfd7",
+    "latency_ms": 225.59380531311035,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2d32ff1a",
+    "latency_ms": 153.6550521850586,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7b5471e2",
+    "latency_ms": 153.0325412750244,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e0e6a588",
+    "latency_ms": 151.17716789245605,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "80d42932",
+    "latency_ms": 220.44086456298828,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0238326f",
+    "latency_ms": 153.77306938171387,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a56e078d",
+    "latency_ms": 152.68993377685547,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e80029fc",
+    "latency_ms": 224.75123405456543,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b7692e10",
+    "latency_ms": 152.0090103149414,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f27d9a0b",
+    "latency_ms": 152.42624282836914,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c1e79a48",
+    "latency_ms": 228.87492179870605,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c6c4bbfd",
+    "latency_ms": 151.7481803894043,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3afaaadd",
+    "latency_ms": 159.34514999389648,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "df7a6a13",
+    "latency_ms": 157.12285041809082,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a352b418",
+    "latency_ms": 152.8174877166748,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9cd611a2",
+    "latency_ms": 157.10973739624023,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3da46a15",
+    "latency_ms": 150.16865730285645,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c665ebcf",
+    "latency_ms": 319.2594051361084,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "acb432db",
+    "latency_ms": 153.22303771972656,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "937095ef",
+    "latency_ms": 156.71086311340332,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d05fd931",
+    "latency_ms": 152.59766578674316,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "999939f0",
+    "latency_ms": 155.61437606811523,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "40b8fa6a",
+    "latency_ms": 154.1280746459961,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0e9f0e67",
+    "latency_ms": 151.6554355621338,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bae30893",
+    "latency_ms": 152.01687812805176,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b3841f01",
+    "latency_ms": 151.25274658203125,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c215800f",
+    "latency_ms": 150.18510818481445,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8aecd0d1",
+    "latency_ms": 314.9857521057129,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8efea92c",
+    "latency_ms": 153.9139747619629,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5105f121",
+    "latency_ms": 152.17876434326172,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0f34ab2e",
+    "latency_ms": 235.28718948364258,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "262dcec1",
+    "latency_ms": 152.16302871704102,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "84ecd4b1",
+    "latency_ms": 230.27944564819336,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e2cb39a8",
+    "latency_ms": 159.03186798095703,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "578048e5",
+    "latency_ms": 148.47946166992188,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3a4a82c9",
+    "latency_ms": 152.74763107299805,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "65ffd406",
+    "latency_ms": 152.90307998657227,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8fdcacb6",
+    "latency_ms": 149.05476570129395,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a6d5768b",
+    "latency_ms": 157.84430503845215,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1051df6d",
+    "latency_ms": 153.05662155151367,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ea9781f2",
+    "latency_ms": 315.8304691314697,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a78e0192",
+    "latency_ms": 222.11313247680664,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1d0ed03d",
+    "latency_ms": 232.90109634399414,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9a21a7de",
+    "latency_ms": 319.17738914489746,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "41ee27b6",
+    "latency_ms": 153.609037399292,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bbc304a8",
+    "latency_ms": 232.40327835083008,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4081a8f2",
+    "latency_ms": 228.29961776733398,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "80bef918",
+    "latency_ms": 154.127836227417,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ab594e8b",
+    "latency_ms": 320.0819492340088,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "68722548",
+    "latency_ms": 154.33979034423828,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "141e5669",
+    "latency_ms": 158.39815139770508,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c04aa8c9",
+    "latency_ms": 155.54165840148926,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4fb0ae83",
+    "latency_ms": 153.90443801879883,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1b948552",
+    "latency_ms": 150.99716186523438,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d711a324",
+    "latency_ms": 151.92103385925293,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "70296766",
+    "latency_ms": 150.8316993713379,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bd05a077",
+    "latency_ms": 152.0237922668457,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0901b1ad",
+    "latency_ms": 316.6539669036865,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8edcd938",
+    "latency_ms": 230.62562942504883,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "56c981e1",
+    "latency_ms": 155.18808364868164,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d7eef2e7",
+    "latency_ms": 232.09738731384277,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "095a3366",
+    "latency_ms": 149.5976448059082,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "55fdf8aa",
+    "latency_ms": 155.50875663757324,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bcdf9e8e",
+    "latency_ms": 148.3609676361084,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5341af87",
+    "latency_ms": 155.1504135131836,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e447e677",
+    "latency_ms": 151.10468864440918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "51908ede",
+    "latency_ms": 228.041410446167,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e18d61db",
+    "latency_ms": 152.85897254943848,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "83c7b841",
+    "latency_ms": 154.37030792236328,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3f849c08",
+    "latency_ms": 153.2604694366455,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "81e1824b",
+    "latency_ms": 149.90830421447754,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "509397cf",
+    "latency_ms": 152.2676944732666,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2a7c6b2a",
+    "latency_ms": 222.76568412780762,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8bb7624b",
+    "latency_ms": 152.4052619934082,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "52fb8cd1",
+    "latency_ms": 151.99851989746094,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "599f579b",
+    "latency_ms": 155.54404258728027,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fe292c4f",
+    "latency_ms": 313.3282661437988,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e0595daf",
+    "latency_ms": 218.75929832458496,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cdc86867",
+    "latency_ms": 154.5431613922119,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fd7118d4",
+    "latency_ms": 150.49171447753906,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f80d3c3c",
+    "latency_ms": 153.3360481262207,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "48708570",
+    "latency_ms": 242.0351505279541,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c32c3968",
+    "latency_ms": 151.0488986968994,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7ac35b56",
+    "latency_ms": 151.86738967895508,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "489815b1",
+    "latency_ms": 153.1391143798828,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bef1552b",
+    "latency_ms": 156.6758155822754,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7610c94d",
+    "latency_ms": 313.1253719329834,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9ece275f",
+    "latency_ms": 316.20025634765625,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7bf17590",
+    "latency_ms": 165.4658317565918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ff3563b2",
+    "latency_ms": 158.9796543121338,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "829111ad",
+    "latency_ms": 369.2038059234619,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "de8bdf3c",
+    "latency_ms": 151.78585052490234,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0968eab2",
+    "latency_ms": -1,
+    "worker": "N/A",
+    "status": "http_error"
+  },
+  {
+    "id": "a23132cc",
+    "latency_ms": 481.78696632385254,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e9a9c611",
+    "latency_ms": 150.73800086975098,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "604ee2c3",
+    "latency_ms": 153.03850173950195,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7fd3d102",
+    "latency_ms": 268.6433792114258,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2d75deb3",
+    "latency_ms": 399.2927074432373,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d135de3f",
+    "latency_ms": 152.27055549621582,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "57d0abf0",
+    "latency_ms": 238.3260726928711,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ed91494b",
+    "latency_ms": 152.8298854827881,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0b1891db",
+    "latency_ms": 154.2518138885498,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a8e87031",
+    "latency_ms": 478.3754348754883,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "47d8de46",
+    "latency_ms": 227.3554801940918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "365b71fa",
+    "latency_ms": 394.5181369781494,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1138d471",
+    "latency_ms": 153.7928581237793,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c2c8f189",
+    "latency_ms": 228.5909652709961,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "57fe44aa",
+    "latency_ms": 394.06538009643555,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1b8df71f",
+    "latency_ms": 151.0641574859619,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2d3feafa",
+    "latency_ms": 152.46915817260742,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0ebc0db4",
+    "latency_ms": 155.97271919250488,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3e787e5e",
+    "latency_ms": 151.05772018432617,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3e06220e",
+    "latency_ms": 299.1294860839844,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3730a337",
+    "latency_ms": 152.8935432434082,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "16fd4b51",
+    "latency_ms": 151.99851989746094,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0571dffe",
+    "latency_ms": 152.80842781066895,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "89861cbe",
+    "latency_ms": 251.53160095214844,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ddced7d2",
+    "latency_ms": 151.94320678710938,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ddc4ccb8",
+    "latency_ms": 154.3736457824707,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fc991427",
+    "latency_ms": 157.99975395202637,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3444ad2d",
+    "latency_ms": 154.55365180969238,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "50f238b7",
+    "latency_ms": 315.108060836792,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c5a1df73",
+    "latency_ms": 226.78375244140625,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a5173e03",
+    "latency_ms": 153.72157096862793,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "eb052819",
+    "latency_ms": 152.4190902709961,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d8aa1ee8",
+    "latency_ms": 157.84001350402832,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1ed82ae5",
+    "latency_ms": 152.00138092041016,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d8171ec1",
+    "latency_ms": 154.72817420959473,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "113c6d7c",
+    "latency_ms": 230.79919815063477,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5a04caeb",
+    "latency_ms": 312.298059463501,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7a598266",
+    "latency_ms": 228.45029830932617,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6372f665",
+    "latency_ms": 224.90859031677246,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c4494c4a",
+    "latency_ms": 152.96101570129395,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "65b5c15e",
+    "latency_ms": 149.48439598083496,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "29a293be",
+    "latency_ms": 152.24361419677734,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fcd04789",
+    "latency_ms": 146.12150192260742,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "37a86945",
+    "latency_ms": 246.4127540588379,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "407e9ef0",
+    "latency_ms": 139.40930366516113,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4cec0126",
+    "latency_ms": 153.06448936462402,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f0d928c7",
+    "latency_ms": 393.0401802062988,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d92f99e3",
+    "latency_ms": 176.7575740814209,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9a61cb6e",
+    "latency_ms": 225.04878044128418,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "62d7b453",
+    "latency_ms": 299.9157905578613,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "44451cbb",
+    "latency_ms": 150.50721168518066,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c42e0143",
+    "latency_ms": 151.7946720123291,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "043a0685",
+    "latency_ms": 402.9195308685303,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "127f7f02",
+    "latency_ms": 302.86359786987305,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3c594757",
+    "latency_ms": 153.23281288146973,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "15657292",
+    "latency_ms": 158.04338455200195,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "42af97af",
+    "latency_ms": 161.72337532043457,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7883db1f",
+    "latency_ms": 229.03990745544434,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e7fa8bcf",
+    "latency_ms": 154.921293258667,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d7f9db98",
+    "latency_ms": 322.91102409362793,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "132653dc",
+    "latency_ms": 245.48029899597168,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b195118a",
+    "latency_ms": 222.50628471374512,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7bcd0dd9",
+    "latency_ms": 219.89822387695312,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "802c68d2",
+    "latency_ms": 231.95123672485352,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f3c5e36f",
+    "latency_ms": 151.0910987854004,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8673b694",
+    "latency_ms": 302.8380870819092,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f5486f54",
+    "latency_ms": 164.19005393981934,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fc912f18",
+    "latency_ms": 152.91118621826172,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4e814edf",
+    "latency_ms": 398.71907234191895,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "82c68b8d",
+    "latency_ms": 237.05744743347168,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "74ba4d05",
+    "latency_ms": 153.7942886352539,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ad887987",
+    "latency_ms": 150.57611465454102,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "aedc4127",
+    "latency_ms": 232.93495178222656,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "39d071fa",
+    "latency_ms": 151.18885040283203,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cc617161",
+    "latency_ms": 145.84970474243164,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3f52cd7c",
+    "latency_ms": 391.4666175842285,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "70667ef1",
+    "latency_ms": 315.71435928344727,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "18b6ed37",
+    "latency_ms": 226.44567489624023,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ed854505",
+    "latency_ms": 300.50110816955566,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "52e9a87b",
+    "latency_ms": 246.50907516479492,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8dd0ab04",
+    "latency_ms": 154.73508834838867,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6d9664b3",
+    "latency_ms": 180.73415756225586,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "560ceb94",
+    "latency_ms": 153.6548137664795,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b88b765b",
+    "latency_ms": 147.749662399292,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "60a0ec8d",
+    "latency_ms": 139.38379287719727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "886f696e",
+    "latency_ms": 148.1304168701172,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d6015f0f",
+    "latency_ms": 298.66766929626465,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b6a311c2",
+    "latency_ms": 151.15690231323242,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a927f635",
+    "latency_ms": 316.2670135498047,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "19a20749",
+    "latency_ms": 155.7319164276123,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "24c5f8b2",
+    "latency_ms": 233.94155502319336,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c87d8d2a",
+    "latency_ms": 152.47750282287598,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d1c7a232",
+    "latency_ms": 149.88207817077637,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "00491005",
+    "latency_ms": 153.425931930542,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d24bf221",
+    "latency_ms": 154.5398235321045,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "55ea12dc",
+    "latency_ms": 153.86343002319336,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f3995b4b",
+    "latency_ms": 154.05583381652832,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4d1bf361",
+    "latency_ms": 153.27215194702148,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "da9bba09",
+    "latency_ms": 233.31737518310547,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "437b5141",
+    "latency_ms": 155.928373336792,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ccb70577",
+    "latency_ms": 223.6335277557373,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ec6e686d",
+    "latency_ms": 155.46131134033203,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "375422a4",
+    "latency_ms": 315.5093193054199,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "67838c16",
+    "latency_ms": 151.89814567565918,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d93c2729",
+    "latency_ms": 167.7846908569336,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "50782553",
+    "latency_ms": 154.0079116821289,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a6324cb0",
+    "latency_ms": 153.09858322143555,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4819cdb4",
+    "latency_ms": 156.2507152557373,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "94e01454",
+    "latency_ms": 156.99481964111328,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dc8002c4",
+    "latency_ms": 154.64353561401367,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8e7bcb59",
+    "latency_ms": 154.2074680328369,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a52e871f",
+    "latency_ms": 154.00147438049316,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9e6c948a",
+    "latency_ms": 314.9735927581787,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a54fd2e0",
+    "latency_ms": 149.36566352844238,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "66571a63",
+    "latency_ms": 227.59747505187988,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "41e2e965",
+    "latency_ms": 167.92011260986328,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "47710590",
+    "latency_ms": 155.5924415588379,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "618f5dd7",
+    "latency_ms": 217.67449378967285,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8889734c",
+    "latency_ms": 313.5645389556885,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "50beebce",
+    "latency_ms": 151.11565589904785,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6d14e5e5",
+    "latency_ms": 226.94921493530273,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9d74f205",
+    "latency_ms": 154.39605712890625,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6e5d3063",
+    "latency_ms": 144.87838745117188,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "065cadbc",
+    "latency_ms": 217.62919425964355,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e9c508ee",
+    "latency_ms": 150.69103240966797,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "38e99ac5",
+    "latency_ms": 229.54034805297852,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "30f24049",
+    "latency_ms": 153.64480018615723,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "62189df3",
+    "latency_ms": 152.32467651367188,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "46d4ae62",
+    "latency_ms": 150.88224411010742,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "21692f08",
+    "latency_ms": 150.5451202392578,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e2929a21",
+    "latency_ms": 230.74007034301758,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8031c193",
+    "latency_ms": 150.63190460205078,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1d96eab0",
+    "latency_ms": 318.011999130249,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bc80030c",
+    "latency_ms": 146.8830108642578,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "219e1c23",
+    "latency_ms": 157.17101097106934,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "439d6163",
+    "latency_ms": 153.303861618042,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ae7beeb4",
+    "latency_ms": 157.36150741577148,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e7ee3cf2",
+    "latency_ms": 153.855562210083,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "055b72ad",
+    "latency_ms": 232.70916938781738,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "61a704c6",
+    "latency_ms": 154.280424118042,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "78461b3d",
+    "latency_ms": 155.4708480834961,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4c735089",
+    "latency_ms": 157.30643272399902,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b35218be",
+    "latency_ms": 153.42044830322266,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6bf1a776",
+    "latency_ms": 227.05554962158203,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e2e750ae",
+    "latency_ms": 153.00345420837402,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "04b19248",
+    "latency_ms": 153.9745330810547,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "361f72d8",
+    "latency_ms": 229.47454452514648,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "65a60d81",
+    "latency_ms": 317.03782081604004,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "decc8bf9",
+    "latency_ms": 155.70640563964844,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e5b98ac4",
+    "latency_ms": 151.58319473266602,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "08a5bd63",
+    "latency_ms": 154.78038787841797,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3d5755b6",
+    "latency_ms": 156.58974647521973,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "58cd88a1",
+    "latency_ms": 232.4507236480713,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "602232f3",
+    "latency_ms": 316.14160537719727,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ab51ce1e",
+    "latency_ms": 156.7535400390625,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0e81aae1",
+    "latency_ms": 317.5079822540283,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a4fb5e07",
+    "latency_ms": 150.8617401123047,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8e43fe11",
+    "latency_ms": 149.80125427246094,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bf20ba38",
+    "latency_ms": 153.13434600830078,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f301d1a1",
+    "latency_ms": 155.8547019958496,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d53b259d",
+    "latency_ms": 219.87581253051758,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ee931f44",
+    "latency_ms": 149.9032974243164,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b573960b",
+    "latency_ms": 222.60737419128418,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7571fbc1",
+    "latency_ms": 163.94519805908203,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e54f4eb8",
+    "latency_ms": 229.77685928344727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2676f248",
+    "latency_ms": 154.57534790039062,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5e1a33aa",
+    "latency_ms": 154.8624038696289,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b0d79336",
+    "latency_ms": 149.19567108154297,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "92cc85ab",
+    "latency_ms": 152.62126922607422,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7df40313",
+    "latency_ms": 148.66995811462402,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ec554bf1",
+    "latency_ms": 154.8008918762207,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8973c52d",
+    "latency_ms": 147.72415161132812,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5a1fbc01",
+    "latency_ms": 313.1744861602783,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f275c69a",
+    "latency_ms": 152.50015258789062,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4d0b081b",
+    "latency_ms": 149.57380294799805,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4446adfd",
+    "latency_ms": 225.0382900238037,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6ed6ff62",
+    "latency_ms": 149.83057975769043,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "56b22b5d",
+    "latency_ms": 157.59038925170898,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2ac15cf2",
+    "latency_ms": 227.62441635131836,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0582b0dd",
+    "latency_ms": 149.18780326843262,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2005bd2b",
+    "latency_ms": 152.1151065826416,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c679fb7a",
+    "latency_ms": 153.64599227905273,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f1016ce2",
+    "latency_ms": 235.22567749023438,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "94199760",
+    "latency_ms": 317.2328472137451,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d687b214",
+    "latency_ms": 224.60484504699707,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "71711063",
+    "latency_ms": 153.45263481140137,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6e8ca52f",
+    "latency_ms": 228.1627655029297,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3508f139",
+    "latency_ms": 149.1997241973877,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d5c56eae",
+    "latency_ms": 146.03734016418457,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d3ddc04c",
+    "latency_ms": 154.10947799682617,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2f979a76",
+    "latency_ms": 316.4842128753662,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cd740681",
+    "latency_ms": 155.54094314575195,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2f750031",
+    "latency_ms": 151.0908603668213,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "47663104",
+    "latency_ms": 155.93743324279785,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ae12e3a9",
+    "latency_ms": 235.7339859008789,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "56471c78",
+    "latency_ms": 153.85746955871582,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "1e3cdb77",
+    "latency_ms": 229.2327880859375,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "83ebf359",
+    "latency_ms": 153.20181846618652,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c982b420",
+    "latency_ms": 154.71220016479492,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "17447c6c",
+    "latency_ms": 155.77006340026855,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "aee1e752",
+    "latency_ms": 147.04203605651855,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c1f8627a",
+    "latency_ms": 151.7038345336914,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fbded518",
+    "latency_ms": 153.2144546508789,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "26d97875",
+    "latency_ms": 154.20913696289062,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "43717af1",
+    "latency_ms": 152.39977836608887,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "316fc25f",
+    "latency_ms": 154.008150100708,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "caf1bc1c",
+    "latency_ms": 153.15723419189453,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ab79cf67",
+    "latency_ms": 156.92663192749023,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "61cd126c",
+    "latency_ms": 316.6835308074951,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fcbe98ac",
+    "latency_ms": 155.7319164276123,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fb61fdda",
+    "latency_ms": 152.5888442993164,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c416728a",
+    "latency_ms": 148.5903263092041,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e85983d3",
+    "latency_ms": 148.76222610473633,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f5ce6afb",
+    "latency_ms": 153.26547622680664,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "46fcf411",
+    "latency_ms": 150.19917488098145,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "264e927b",
+    "latency_ms": 309.3249797821045,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6abeb63a",
+    "latency_ms": 146.06237411499023,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3c5ff982",
+    "latency_ms": 148.1606960296631,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "302f0cf0",
+    "latency_ms": 149.36137199401855,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3c970e3a",
+    "latency_ms": 313.36092948913574,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a7f3137c",
+    "latency_ms": 149.3690013885498,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "453f89a9",
+    "latency_ms": 152.27246284484863,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d8cb31c0",
+    "latency_ms": 150.04229545593262,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c26fa8e0",
+    "latency_ms": 228.35302352905273,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2b5999a3",
+    "latency_ms": 226.06897354125977,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "8ad4e8b1",
+    "latency_ms": 149.77598190307617,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d6b6ff10",
+    "latency_ms": 222.9764461517334,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "379db009",
+    "latency_ms": 152.22859382629395,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "40217a59",
+    "latency_ms": 150.88748931884766,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3c21eb04",
+    "latency_ms": 151.74007415771484,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a69b9bb8",
+    "latency_ms": 224.26199913024902,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b6e8f609",
+    "latency_ms": 152.33802795410156,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c3648854",
+    "latency_ms": 151.28684043884277,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b61e2825",
+    "latency_ms": 315.80138206481934,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cfdf366d",
+    "latency_ms": 154.71982955932617,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9fe84b6d",
+    "latency_ms": 237.81132698059082,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4057a469",
+    "latency_ms": 154.2530059814453,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5b100478",
+    "latency_ms": 152.80795097351074,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "895a1298",
+    "latency_ms": 237.81371116638184,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c0682156",
+    "latency_ms": 155.5342674255371,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7fd59d30",
+    "latency_ms": 237.36000061035156,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "faf3374a",
+    "latency_ms": 318.6483383178711,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "513f496c",
+    "latency_ms": 155.45010566711426,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5cd36749",
+    "latency_ms": 153.33819389343262,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "6b99e2ad",
+    "latency_ms": 156.13961219787598,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "85c8915b",
+    "latency_ms": 321.63071632385254,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dd105d55",
+    "latency_ms": 153.81169319152832,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ee1a3399",
+    "latency_ms": 152.88162231445312,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ac0c1415",
+    "latency_ms": 156.78858757019043,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4c471cf2",
+    "latency_ms": 164.9928092956543,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "9db4df94",
+    "latency_ms": 151.64446830749512,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "72201232",
+    "latency_ms": 231.60290718078613,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "eabb32ba",
+    "latency_ms": 226.73344612121582,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "42dc52c3",
+    "latency_ms": 152.91237831115723,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "50d03874",
+    "latency_ms": 238.4202480316162,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "38a65580",
+    "latency_ms": 160.46404838562012,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c14c827c",
+    "latency_ms": 152.25815773010254,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e57a95f2",
+    "latency_ms": 151.7658233642578,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0f3e0737",
+    "latency_ms": 398.32258224487305,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5079e8d8",
+    "latency_ms": 154.81328964233398,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "60046f0e",
+    "latency_ms": 246.81711196899414,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c1615670",
+    "latency_ms": 404.88314628601074,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "f5c6e356",
+    "latency_ms": 298.6302375793457,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4d283723",
+    "latency_ms": 151.4742374420166,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "392aae53",
+    "latency_ms": 155.88736534118652,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "4c2ada2a",
+    "latency_ms": 233.58464241027832,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e970d083",
+    "latency_ms": 152.9219150543213,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "43c09f24",
+    "latency_ms": 149.84989166259766,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0251b596",
+    "latency_ms": 152.65130996704102,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b97c08a2",
+    "latency_ms": 151.01099014282227,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3b534303",
+    "latency_ms": 143.91255378723145,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "81608ff3",
+    "latency_ms": 240.0052547454834,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e940b0f1",
+    "latency_ms": 155.90143203735352,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0915e3ed",
+    "latency_ms": 147.70865440368652,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ad280e44",
+    "latency_ms": 304.13150787353516,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "bd17ef15",
+    "latency_ms": 153.5193920135498,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "52551a11",
+    "latency_ms": 174.47686195373535,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "cb7b26ec",
+    "latency_ms": 146.5778350830078,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "dd921f51",
+    "latency_ms": 151.63183212280273,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fa4c66ba",
+    "latency_ms": 158.65802764892578,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "38a55fb4",
+    "latency_ms": 158.36310386657715,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b258bb60",
+    "latency_ms": 153.7933349609375,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "94e5c20c",
+    "latency_ms": 149.0609645843506,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "51eef1f1",
+    "latency_ms": 302.08849906921387,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "3fdb96a3",
+    "latency_ms": 398.5874652862549,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "acef6ada",
+    "latency_ms": 146.99363708496094,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0f78cdc2",
+    "latency_ms": 401.747465133667,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d393d3e4",
+    "latency_ms": 245.3453540802002,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "31a800b2",
+    "latency_ms": 155.89618682861328,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "d47e3e86",
+    "latency_ms": 139.0702724456787,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "308dfd72",
+    "latency_ms": 299.6804714202881,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e60ec27c",
+    "latency_ms": 177.40869522094727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fdd609b1",
+    "latency_ms": 149.27148818969727,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "b3c9a8f9",
+    "latency_ms": 154.06298637390137,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "7b0da31a",
+    "latency_ms": 303.99107933044434,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fd4f9e5d",
+    "latency_ms": 154.56724166870117,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "2dfbebcc",
+    "latency_ms": 153.48410606384277,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "a5743dd0",
+    "latency_ms": 152.0559787750244,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "5fd2417f",
+    "latency_ms": 151.16286277770996,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "0286e014",
+    "latency_ms": 153.0773639678955,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "ae404883",
+    "latency_ms": 148.77724647521973,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "120f0fa2",
+    "latency_ms": 154.2508602142334,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "08febc5f",
+    "latency_ms": 314.6376609802246,
+    "worker": "cpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "49973f67",
+    "latency_ms": 146.99125289916992,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "92669391",
+    "latency_ms": 153.67460250854492,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "61b27063",
+    "latency_ms": 146.622896194458,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "03c37159",
+    "latency_ms": 172.96648025512695,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "159d0a92",
+    "latency_ms": 239.56012725830078,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fdadf743",
+    "latency_ms": 154.27899360656738,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "c9ebe3d8",
+    "latency_ms": 149.00755882263184,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "85b03daa",
+    "latency_ms": 151.71456336975098,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "fac12946",
+    "latency_ms": 151.8533229827881,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  },
+  {
+    "id": "e696e05e",
+    "latency_ms": 238.61217498779297,
+    "worker": "gpu_worker_1",
+    "status": "success"
+  }
+]
