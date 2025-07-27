@@ -80,7 +80,7 @@ The `client.py` script bursts inference requests to observe scheduling behavior 
 Performance metrics (e.g., **request latency**, **worker utilization**) are tracked and visualized in Grafana.
 
 For detailed graphs and analysis, check out the blog post:
-👉 [Read the Medium article](https://medium.com/@falakshair563/optimizing-ml-inference-building-a-smart-resource-scheduler-for-heterogeneous-workloads-9d5575895c10)
+👉 [Read the Medium article](https://medium.com/p/9d5575895c10)
 
 ## 🧪 Future Improvements
 
